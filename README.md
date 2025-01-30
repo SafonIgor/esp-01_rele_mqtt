@@ -6,7 +6,7 @@
 ESP-01 (модуль на базе ESP8266).<br>
 Реле (например, 5V реле).<br>
 USB-UART адаптер (для прошивки ESP-01).<br>
-MQTT-брокер (например, Mosquitto, CloudMQTT или HiveMQ).<br>
+MQTT-брокер (например, <a href="https://mosquitto.org/">Mosquitto</a>, <a href="https://www.cloudmqtt.com/">CloudMQTT</a> или <a href="">HiveMQ)</a>.<br>
 Arduino IDE для написания и загрузки кода.<br></p>
 
 <p><b>Схема подключения:</b><br>
